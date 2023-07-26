@@ -38,11 +38,10 @@ I am a 22-year-old student of Exact Sciences at UFJF, passionate about the techn
 <h1 align="center">Stats 📈</h1>
 
 <div align="center">
-  <a href="https://github.com/danilo-olacerda">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-olacerda&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<a href="https://github.com/ResendiK2">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendiK2&layout=compact&langs_count=7&theme=dracula"/>
 
-<div align="center">
+[![wakatime](https://wakatime.com/badge/user/35005a51-b72e-4151-b566-0d77b8702425.svg)](https://wakatime.com/@35005a51-b72e-4151-b566-0d77b8702425)
 
 [![wakatime](https://wakatime.com/share/@35005a51-b72e-4151-b566-0d77b8702425/78a30e82-708c-4d10-b780-c807b0c2b8e5.svg)](https://wakatime.com/@35005a51-b72e-4151-b566-0d77b8702425)
 
