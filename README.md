@@ -1,6 +1,6 @@
 <h1 align="center">Hey guys, Gabriel here! 🤖</h1>
 
-I am a 22-year-old student of Exact Sciences at UFJF, passionate about the technology field, and dedicated to mastering the JavaScript ecosystem. Additionally, I work as a Full Stack Developer at Sensio Software Eireli.
+I am a 22-year-old student of Exact Sciences at UFJF, passionate about the technology field, and dedicated to mastering the JavaScript ecosystem. Additionally, I work as a Full Stack Developer at Sensio ERP.
 
 <h1 align="center">Techs 🚀</h1>
 
