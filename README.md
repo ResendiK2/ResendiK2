@@ -1,6 +1,14 @@
 <h1 align="center">Hey guys, Gabriel here! 🤖</h1>
 
-I am a 22-year-old student of Exact Sciences at UFJF, passionate about the technology field, and dedicated to mastering the JavaScript ecosystem. Additionally, I work as a Full Stack Developer at Sensio ERP.
+Currently pursuing a Bachelor's degree in Exact Sciences at the Federal University of Juiz de Fora (UFJF), with over 4 years of professional experience as a Full Stack Developer. Throughout my academic and professional journey, I balance evening university classes with full-time work during the day.
+
+I began my path at Code Junior, the UFJF computing junior enterprise, where I progressed from Developer and Q.A. Assistant to Project and Commercial Director. In these roles, I led teams, engaged with clients and stakeholders, and actively participated in all stages of software development.
+
+Later, I joined Sensio's team, an ERP system for industries, focusing on production and inventory control. There, I developed strong skills in technologies such as JavaScript, TypeScript, React, React Native, Angular, Node.js, and MongoDB.
+
+While my online presence may be more understated due to the extensive workload between work and studies, I maintain a consistent commitment to technical excellence and continuous improvement. My projects on GitHub are usually related to academic work, personal projects, and professional development courses. I use Wakatime to monitor my programming routine, reflecting my dedication to efficiency and progress in the field.
+
+I invite you to learn more about my journey and skills on my Wakatime profile: [Wakatime - ResendiK2](https://wakatime.com/@ResendiK2).
 
 <h1 align="center">Techs 🚀</h1>
 
