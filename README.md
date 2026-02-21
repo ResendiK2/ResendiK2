@@ -38,12 +38,12 @@ Most professional projects are developed in private repositories, so this GitHub
 
 Contributor to digital health platforms maintained by **CREPEIA — UFJF**.
 
-### AES
+### AES - Álcool & Saúde
 Web-based alcohol intervention system (Java backend).
 
 🔗 https://github.com/crepeia/aes
 
-### WATI — Live Without Tobacco
+### WATI — Viva sem Tabaco
 Open-source smoking cessation platform with Java backend and mobile workflow support.
 
 🔗 https://github.com/crepeia/wati
@@ -69,18 +69,6 @@ These projects are used in real research and public health initiatives.
 - React & React Native Ecosystem
 - Cloud Architecture (AWS & Azure)
 - CI/CD & Production Engineering
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ResendiK2&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendiK2&layout=compact&theme=dracula&hide_border=true"/>
-
-</p>
 
 ---
 
