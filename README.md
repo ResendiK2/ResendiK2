@@ -1,98 +1,99 @@
 <h1 align="center">Hi, I'm Gabriel 👋</h1>
 
 <p align="center">
-Software Engineer focused on building scalable web and mobile applications.
+  <b>Software Engineer • Full Stack & Mobile</b><br/>
+  Building scalable web and mobile applications
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-resende-b702871ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wakatime.com/@ResendiK2">
+    <img src="https://img.shields.io/badge/Wakatime-Stats-000000?style=for-the-badge&logo=wakatime&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I’m a Software Engineer with over 5 years of experience developing production software, currently working with financial systems and large-scale e-commerce platforms at Gazin Tech.
+Software Engineer with 5+ years of experience developing production systems, currently working at **Gazin Tech** on financial platforms and large-scale e-commerce solutions.
 
-My work focuses on authentication systems, payment processing, and high-traffic digital applications. I contribute across backend services, web platforms, and mobile applications, working on solutions that go from technical design to production deployment and ongoing evolution.
+I work across backend services, web platforms, and mobile applications, focusing on authentication systems, payment processing, and scalable architectures.
 
-At Gazin Tech, I work on systems related to Identity and Access Management (IAM), financial transactions such as Pix and card payments, and the company’s expanding e-commerce ecosystem.
+My professional work includes:
 
-Previously, at Sensio ERP, I owned the mobile application lifecycle end-to-end, from architecture definition to production deployment, while also contributing as a full stack developer to an industrial ERP platform.
+- Identity & Access Management (IAM)
+- Financial transactions (Pix, credit cards, payments)
+- High-traffic e-commerce platforms
+- End-to-end mobile application ownership
+- Cloud infrastructure on AWS and Azure
 
-Most of my professional work is developed in private enterprise repositories, therefore my public GitHub activity mainly reflects personal projects, academic work, and open-source collaborations.
-
----
-
-## Open Source & Research Contributions
-
-I have contributed to open-source academic projects maintained by **CREPEIA** (Center for Research, Intervention and Evaluation for Alcohol and Drugs – Federal University of Juiz de Fora), focused on digital health interventions and scientific research platforms.
-
-### 🔹 AES
-Web-based alcohol intervention platform.
-
-- Contributed to backend maintenance and improvements
-- Java-based application running on Glassfish and MySQL
-- Supported evolution of a real-world research system
-
-Repository: https://github.com/crepeia/aes
-
-### 🔹 WATI (Live Without Tobacco)
-Open-source web-assisted intervention for smoking cessation.
-
-- Collaboration on development and improvements
-- Backend contributions in Java
-- Support for mobile application workflows using Expo
-
-Repository: https://github.com/crepeia/wati
-
-These experiences involved contributing to existing codebases, collaborating in multidisciplinary environments, and supporting software used in scientific and public health initiatives.
+Most professional projects are developed in private repositories, so this GitHub mainly reflects personal, academic, and open-source collaborations.
 
 ---
 
-## What I Work With
+## 🧠 Open Source & Research Contributions
 
-- Scalable web and mobile applications
-- Payment and authentication systems
-- React & React Native ecosystems
-- Cloud infrastructure (AWS & Azure)
-- CI/CD and production-grade software delivery
+Contributor to digital health platforms maintained by **CREPEIA — UFJF**.
 
----
+### AES
+Web-based alcohol intervention system (Java backend).
 
-## Core Technologies
+🔗 https://github.com/crepeia/aes
 
-### Languages
-TypeScript • JavaScript • PHP • Java
+### WATI — Live Without Tobacco
+Open-source smoking cessation platform with Java backend and mobile workflow support.
 
-### Frontend & Mobile
-React • Next.js • Angular • React Native • Expo
+🔗 https://github.com/crepeia/wati
 
-### Backend
-Node.js • Laravel • Symfony • Express • Fastify
-
-### Databases
-PostgreSQL • MySQL • MongoDB • Redis • RealmDB
-
-### Cloud & DevOps
-AWS • Azure • Docker • CI/CD • Azure Functions
-
-### Testing
-Jest • Vitest • Jasmine • Cypress
-
-### Tools
-Git • Jira • Trello • Datadog • Sentry
+These projects are used in real research and public health initiatives.
 
 ---
 
-## Stats
+## ⚙️ Core Stack
 
-<div align="center">
+<p align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendiK2&layout=compact&langs_count=7&theme=dracula"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,php,java,postgres,mysql,mongodb,redis,docker,aws,azure,git" />
 
-<br/>
+</p>
+
+---
+
+## 🧩 What I Work With
+
+- Scalable Web & Mobile Applications
+- Payment & Authentication Systems
+- React & React Native Ecosystem
+- Cloud Architecture (AWS & Azure)
+- CI/CD & Production Engineering
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ResendiK2&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendiK2&layout=compact&theme=dracula&hide_border=true"/>
+
+</p>
+
+---
+
+## ⏱ Coding Activity
+
+<p align="center">
 
 [![wakatime](https://wakatime.com/badge/user/35005a51-b72e-4151-b566-0d77b8702425.svg)](https://wakatime.com/@35005a51-b72e-4151-b566-0d77b8702425)
 
-<br/>
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-resende-b702871ab/)
+---
 
-</div>
+<p align="center">
+  <i>Interested in system design, scalable architectures and building software that delivers real business impact.</i>
+</p>
