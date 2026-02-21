@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gabriel 👋</h1>
 
 <p align="center">
-  <b>Software Engineer • Full Stack & Mobile</b><br/>
+  <b>Software Engineer | Full Stack & Mobile | Fintech & Scalable Platforms</b><br/>
   Building scalable web and mobile applications
 </p>
 
@@ -22,7 +22,7 @@ Software Engineer with 5+ years of experience developing production systems, cur
 
 I work across backend services, web platforms, and mobile applications, focusing on authentication systems, payment processing, and scalable architectures.
 
-My professional work includes:
+My professional experience includes:
 
 - Identity & Access Management (IAM)
 - Financial transactions (Pix, credit cards, payments)
@@ -30,34 +30,58 @@ My professional work includes:
 - End-to-end mobile application ownership
 - Cloud infrastructure on AWS and Azure
 
-Most professional projects are developed in private repositories, so this GitHub mainly reflects personal, academic, and open-source collaborations.
+Most professional work is developed in private repositories, so this GitHub mainly reflects personal, academic, and open-source collaborations.
 
 ---
 
-## 🧠 Open Source & Research Contributions
+## ⭐ Engineering Highlights
 
-Contributor to digital health platforms maintained by **CREPEIA — UFJF**.
+Real-world systems and research platforms I have contributed to.
 
-### AES - Álcool & Saúde
-Web-based alcohol intervention system (Java backend).
+<table>
+<tr>
+<td width="50%">
 
-🔗 https://github.com/crepeia/aes
+### 🚬 Viva sem Tabaco (WATI)
+Digital health platform for smoking cessation used in scientific research.
 
-### WATI — Viva sem Tabaco
-Open-source smoking cessation platform with Java backend and mobile workflow support.
+- Java backend platform
+- Mobile application workflow
+- Public health intervention system
 
-🔗 https://github.com/crepeia/wati
+🔗 https://github.com/crepeia/wati  
+📱 https://github.com/crepeia/wati-android
 
-These projects are used in real research and public health initiatives.
+</td>
+
+<td width="50%">
+
+### 🍺 AES — Álcool & Saúde
+Web-based alcohol intervention system developed at UFJF.
+
+- Enterprise Java architecture
+- Glassfish + MySQL stack
+- Research-grade production system
+
+🔗 https://github.com/crepeia/aes  
+📱 https://github.com/crepeia/aes-android
+
+</td>
+</tr>
+</table>
+
+### 📱 React Native Research Applications
+
+- https://github.com/crepeia/vstobacco-webapp
+
+These platforms are part of real public health and academic research initiatives maintained by **CREPEIA — Federal University of Juiz de Fora (UFJF)**.
 
 ---
 
 ## ⚙️ Core Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,php,java,postgres,mysql,mongodb,redis,docker,aws,azure,git" />
-
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,php,java,postgres,mysql,mongodb,redis,docker,aws,azure,git" />
 </p>
 
 ---
@@ -69,6 +93,7 @@ These projects are used in real research and public health initiatives.
 - React & React Native Ecosystem
 - Cloud Architecture (AWS & Azure)
 - CI/CD & Production Engineering
+- Performance & System Design
 
 ---
 
